@@ -1,0 +1,15 @@
+# 1. প্রথমে সব ফাইল সঠিক লোকেশনে তৈরি করুন
+
+# 2. ডিপেন্ডেন্সি ইন্সটল করুন
+pip install -r requirements.txt
+
+# 3. টুল রান করুন (টেস্টিং সাইট)
+python main.py -u http://testphp.vulnweb.com
+
+# 4. কাস্টম টার্গেটের জন্য
+python main.py -u https://your-target-site.com -t 20
+
+# 5. AI বন্ধ করে রান করুন
+python main.py -u http://testphp.vulnweb.com --no-ai
+
+# 6. শুধু SQLi টেস্ট করতে (কনফিগ ফাইল মোডিফাই করতে হবে)
