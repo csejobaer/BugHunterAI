@@ -35,6 +35,10 @@
 git clone https://github.com/csejobaer/BugHunterAI.git
 cd bug-hunter-ai
 
+#Use a virtual environment
+python3 -m venv venv
+source venv/bin/activate
+
 # Install dependencies
 pip install -r requirements.txt
 
