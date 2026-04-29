@@ -1,12 +1,20 @@
 # Bug Hunter AI 🔍
+<h1 align="center">⚡ BugHunter AI ⚡</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=BugHunter+AI;Advanced+AI+Powered+Hacking+Tool;Find+Bugs.+Exploit+Smart.+Stay+Ahead." alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/AI-Powered-00ff9c?style=for-the-badge&logo=openai&logoColor=black">
+  <img src="https://img.shields.io/badge/Security-Scanner-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Bug%20Hunter-Elite-black?style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ff9c&size=25&center=true&vCenter=true&width=800&lines=AI+Driven+Bug+Hunting;Advanced+Pentesting+Toolkit;Scan.+Detect.+Exploit."/>
 </p>
-<div align="center">
+
+---
+
+> 🚀 Next-gen AI-powered bug hunting & security automation tool  
+> ⚠️ Built for ethical hackers & security researchers
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
