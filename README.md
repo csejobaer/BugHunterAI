@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2200&pause=800&color=00FF9C&center=true&vCenter=true&width=900&lines=AI+Powered+Bug+Hunting;Advanced+Security+Scanner;Exploit+Detection+Engine;Cyber+Intelligence+System;Built+for+Ethical+Hackers" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" style="border-radius:12px;"/>
-</p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Powered-00ff9c?style=for-the-badge&logo=openai&logoColor=black">
