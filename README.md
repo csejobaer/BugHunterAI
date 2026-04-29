@@ -1,5 +1,24 @@
 # Bug Hunter AI 🔍
-<h1 align="center">⚡ BugHunter AI ⚡</h1>
+
+<p align="center">
+  <div style="position: relative; width: 100%; max-width: 900px; margin: auto;">
+
+    <!-- Background Image -->
+    <img src="https://png.pngtree.com/thumb_back/fh260/background/20241017/pngtree-cybersecurity-banner-with-a-hacker-in-a-hood-using-a-laptop-image_16404501.jpg" width="100%" style="border-radius: 12px; filter: brightness(0.5);"/>
+
+    <!-- Animated Text -->
+    <div style="position: absolute; top: 20%; width: 100%; text-align: center;">
+      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&lines=BugHunter+AI;AI+Powered+Bug+Scanner;Advanced+Security+Analysis;Exploit+Detection+Engine" />
+    </div>
+
+    <!-- Title -->
+    <div style="position: absolute; top: 5%; width: 100%; text-align: center; color: #00ff9c; font-size: 32px; font-weight: bold;">
+      ⚡ BugHunter AI ⚡
+    </div>
+
+  </div>
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Powered-00ff9c?style=for-the-badge&logo=openai&logoColor=black">
@@ -7,27 +26,7 @@
   <img src="https://img.shields.io/badge/Bug%20Hunter-Elite-black?style=for-the-badge">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ff9c&size=25&center=true&vCenter=true&width=800&lines=AI+Driven+Bug+Hunting;Advanced+Pentesting+Toolkit;Scan.+Detect.+Exploit."/>
-</p>
 
----
-
-> 🚀 Next-gen AI-powered bug hunting & security automation tool  
-> ⚠️ Built for ethical hackers & security researchers
-
-![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Version](https://img.shields.io/badge/version-1.0.0-red)
-![Status](https://img.shields.io/badge/status-stable-brightgreen)
-
-**Professional Automated Web Vulnerability Scanner with AI Integration**
-
-[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Configuration](#configuration) • [Disclaimer](#disclaimer)
-
-</div>
-
----
 
 ## 📋 Features
 
