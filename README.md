@@ -32,7 +32,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/bug-hunter-ai.git
+git clone https://github.com/csejobaer/BugHunterAI.git
 cd bug-hunter-ai
 
 # Install dependencies
@@ -205,7 +205,7 @@ Full list in `requirements.txt`
 
 ## 📧 Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/bug-hunter-ai/issues)
+- **Issues**: [GitHub Issues](https://github.com/csejobaer/BugHunterAI/issues)
 - **Security**: Private disclosure only
 
 ---
