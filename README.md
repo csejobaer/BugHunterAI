@@ -1,5 +1,11 @@
 # Bug Hunter AI 🔍
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=BugHunter+AI;Advanced+AI+Powered+Hacking+Tool;Find+Bugs.+Exploit+Smart.+Stay+Ahead." alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+</p>
 <div align="center">
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
